@@ -1,0 +1,56 @@
+{
+  "navigation": {
+    "profile": "Profile",
+    "result": "Result",
+    "settings": "Settings"
+  },
+  "hero": {
+    "eyebrow": "Mobile MVP",
+    "title": "Technical setup compatibility for table tennis.",
+    "description": "The app combines player profile, current setup and objective dataset attributes to recommend better-fitting combinations."
+  },
+  "sections": {
+    "playingProfile": "Playing profile",
+    "currentSetup": "Current setup",
+    "history": "History and goal"
+  },
+  "fields": {
+    "level": "Level",
+    "style": "Style",
+    "grip": "Grip",
+    "frequency": "Frequency",
+    "strengths": "Strengths",
+    "weaknesses": "Weaknesses",
+    "blade": "Blade",
+    "forehandRubber": "FH rubber",
+    "backhandRubber": "BH rubber",
+    "issues": "Current issues",
+    "goal": "Goal",
+    "notes": "Notes"
+  },
+  "actions": {
+    "generate": "Generate technical analysis"
+  },
+  "result": {
+    "profileAnalysis": "Profile analysis",
+    "currentSetupAnalysis": "Current setup analysis",
+    "recommendations": "Top 3 recommendations",
+    "roadmap": "Roadmap"
+  },
+  "settings": {
+    "languageTitle": "Language",
+    "languageDescription": "Manual language switching is prepared from the MVP to support international rollout.",
+    "languageLabel": "Planned locales",
+    "profileTitle": "Saved profile",
+    "profileDescription": "Reserved space for saved setups and athlete preferences in later iterations."
+  },
+  "mock": {
+    "notes": "Current setup feels too rigid in the short game and unstable on the modern backhand.",
+    "profileAnalysis": "Intermediate offensive penhold-modern profile that needs balanced FH acceleration, BH stability and controlled overall weight.",
+    "currentSetupPositive": "The current setup already supports forehand power and first attack acceleration.",
+    "currentSetupLimitation": "The combination is too stiff for fine touch in the short game.",
+    "currentSetupRisk": "If the weight stays high, the modern backhand will likely degrade during longer sessions.",
+    "roadmapNow": "Replace the BH rubber first with a lighter and more stable option.",
+    "roadmapLater": "Reassess the blade once the unified dataset and Sonnet backend are active."
+  }
+}

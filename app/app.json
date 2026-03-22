@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Table Tennis Gear Advisor",
+    "slug": "tt-gear-advisor",
+    "version": "1.0.0",
+    "scheme": "ttgearadvisor",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f3ecdf"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.lfsystems.ttgearadvisor"
+    },
+    "android": {
+      "package": "br.com.lfsystems.ttgearadvisor",
+      "adaptiveIcon": {
+        "backgroundColor": "#f3ecdf",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

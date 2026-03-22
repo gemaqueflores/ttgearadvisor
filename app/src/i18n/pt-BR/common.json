@@ -1,0 +1,56 @@
+{
+  "navigation": {
+    "profile": "Perfil",
+    "result": "Resultado",
+    "settings": "Ajustes"
+  },
+  "hero": {
+    "eyebrow": "MVP mobile",
+    "title": "Compatibilidade técnica para setup de tênis de mesa.",
+    "description": "O app cruza perfil do atleta, setup atual e dados objetivos do dataset para recomendar combinações mais coerentes."
+  },
+  "sections": {
+    "playingProfile": "Perfil de jogo",
+    "currentSetup": "Setup atual",
+    "history": "Histórico e meta"
+  },
+  "fields": {
+    "level": "Nível",
+    "style": "Estilo",
+    "grip": "Empunhadura",
+    "frequency": "Frequência",
+    "strengths": "Pontos fortes",
+    "weaknesses": "Pontos fracos",
+    "blade": "Lâmina",
+    "forehandRubber": "Borracha FH",
+    "backhandRubber": "Borracha BH",
+    "issues": "Problemas percebidos",
+    "goal": "Objetivo",
+    "notes": "Observações"
+  },
+  "actions": {
+    "generate": "Gerar análise técnica"
+  },
+  "result": {
+    "profileAnalysis": "Análise do perfil",
+    "currentSetupAnalysis": "Análise do setup atual",
+    "recommendations": "Top 3 recomendações",
+    "roadmap": "Roadmap"
+  },
+  "settings": {
+    "languageTitle": "Idioma",
+    "languageDescription": "A troca manual de idioma ficará disponível desde o MVP para preparar expansão internacional.",
+    "languageLabel": "Idiomas previstos",
+    "profileTitle": "Perfil salvo",
+    "profileDescription": "Espaço reservado para salvar setups e preferências do atleta nas próximas iterações."
+  },
+  "mock": {
+    "notes": "Setup atual com sensação rígida no toque curto e pouca segurança no BH.",
+    "profileAnalysis": "Perfil ofensivo intermediário com classineta, pedindo equilíbrio entre aceleração de FH, estabilidade de BH e peso final controlado.",
+    "currentSetupPositive": "O setup atual já favorece potência de FH e aceleração inicial.",
+    "currentSetupLimitation": "A combinação está rígida demais para o controle fino do jogo curto.",
+    "currentSetupRisk": "Se o peso continuar alto, o BH moderno tende a perder qualidade ao longo do treino.",
+    "roadmapNow": "Trocar primeiro a borracha de BH por uma opção mais estável e leve.",
+    "roadmapLater": "Reavaliar a lâmina quando o dataset unificado e o backend com Sonnet estiverem ativos."
+  }
+}

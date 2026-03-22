@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/app/node_modules
+.venv/
 /.pnp
 .pnp.*
 .yarn/*
@@ -13,7 +15,13 @@
 # testing
 /coverage
 
-# next.js
+# expo / react native
+/app/.expo
+/app/.expo-shared
+/app/dist
+/app/web-build
+
+# next.js legacy
 /.next/
 /out/
 
@@ -35,6 +43,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# python
+__pycache__/
+*.pyc
 
 # typescript
 *.tsbuildinfo

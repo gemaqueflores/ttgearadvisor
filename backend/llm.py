@@ -1,54 +1,52 @@
 from models import AnalyzeResponse
-from schemas import AthleteProfileInput
+
+from engine import build_local_response
 
 
-def build_mock_response(profile: AthleteProfileInput) -> AnalyzeResponse:
-    """Retorna resposta estruturada temporaria ate a integracao com a Anthropic."""
+def build_sonnet_prompt(athlete_profile: dict, enriched_setup: dict, user_language: str = "pt-BR") -> str:
+    """Prompt base para a futura integracao com Sonnet.
 
-    return AnalyzeResponse.model_validate(
-        {
-            "analise_perfil": (
-                f"Perfil {profile.estilo} com empunhadura {profile.empunhadura}, "
-                "orientado para um setup de progressao controlada."
-            ),
-            "analise_setup_atual": {
-                "pontos_positivos": [
-                    "O setup atual ja oferece base ofensiva para o FH."
-                ],
-                "limitacoes": [
-                    "O controle fino do jogo curto ainda parece abaixo do ideal."
-                ],
-                "riscos": [
-                    "A distribuicao de peso pode prejudicar o BH em treinos longos."
-                ],
-            },
-            "recomendacoes": [
-                {
-                    "rank": 1,
-                    "lamina": {"marca": "Nittaku", "modelo": "Acoustic"},
-                    "borracha_fh": {
-                        "marca": "DHS",
-                        "modelo": "Hurricane 3 Neo",
-                        "espessura": "2.1",
-                    },
-                    "borracha_bh": {
-                        "tipo": "convencional",
-                        "marca": "Yasaka",
-                        "modelo": "Rakza 7 Soft",
-                        "espessura": "2.0",
-                        "observacao": None,
-                    },
-                    "justificativa_lamina": "Mais dwell e melhor controle para topspin de progressao.",
-                    "justificativa_fh": "Mantem spin forte no FH sem descaracterizar o estilo ofensivo.",
-                    "justificativa_bh": "Entrega mais estabilidade e controle no BH moderno.",
-                    "justificativa_combinacao": "A combinacao reduz rigidez excessiva e melhora equilibrio geral.",
-                    "faixa_preco_total_usd": "premium",
-                }
-            ],
-            "roadmap": {
-                "trocar_agora": ["Borracha BH"],
-                "trocar_depois": ["Lamina"],
-                "justificativa": "Comecar pela peca de menor custo para corrigir controle e peso.",
-            },
-        }
-    )
+    O nivel de confianca deve calibrar a assertividade da linguagem:
+    - alta: afirmacoes diretas
+    - media: afirmacoes diretas, mas sem extrapolar dados fisicos ausentes
+    - baixa: linguagem cautelosa, com base nos dados disponiveis
+    - insuficiente: deixar claro que a leitura ficou parcial
+    """
+
+    return f"""Voce e um especialista tecnico em equipamentos de tenis de mesa.
+
+Perfil do atleta:
+{athlete_profile}
+
+Dados tecnicos do setup atual:
+{enriched_setup}
+
+Responda em {user_language}.
+Retorne exclusivamente JSON valido no formato do contrato AnalyzeResponse, sem texto adicional.
+
+Analise tecnicamente o setup atual do atleta:
+- avalie a lamina individualmente
+- avalie a borracha FH individualmente
+- avalie a borracha BH individualmente
+- avalie a sinergia da combinacao completa
+- identifique pontos positivos, limitacoes e riscos
+
+Calibre a linguagem pelo campo confianca de cada peca:
+- alta: afirmacoes diretas
+- media: afirmacoes diretas sem extrapolar dados ausentes
+- baixa: use linguagem cautelosa como 'com base nos dados disponiveis'
+- insuficiente: deixe explicito que faltam dados minimos
+
+Se aprovado_competicao for false em borracha_fh ou borracha_bh,
+inclua o alerta_larc correspondente na avaliacao daquela borracha.
+Nunca gere alerta de irregularidade para a lamina.
+"""
+
+
+def validate_analysis_payload(payload: dict) -> AnalyzeResponse:
+    """Valida o payload de analise antes de enviar ao app."""
+
+    return AnalyzeResponse.model_validate(payload)
+
+
+__all__ = ["build_local_response", "build_sonnet_prompt", "validate_analysis_payload"]

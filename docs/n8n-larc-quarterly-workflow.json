@@ -1,0 +1,133 @@
+{
+  "name": "LARC Quarterly Refresh",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 8 5 1,4,7,10 *"
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Quarterly Cron",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        260,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "command": "python etl/scrape_larc.py --mode auto"
+      },
+      "id": "exec-larc",
+      "name": "Run scrape_larc",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        520,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json[\"exitCode\"] }}",
+              "operation": "equal",
+              "value2": "0"
+            }
+          ]
+        }
+      },
+      "id": "if-success",
+      "name": "Scrape OK?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        760,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "command": "python etl/merge.py"
+      },
+      "id": "exec-merge",
+      "name": "Run merge",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        1010,
+        220
+      ]
+    },
+    {
+      "parameters": {
+        "command": "echo LARC refresh failed"
+      },
+      "id": "notify-failure",
+      "name": "Failure notice",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        1010,
+        380
+      ]
+    }
+  ],
+  "connections": {
+    "Quarterly Cron": {
+      "main": [
+        [
+          {
+            "node": "Run scrape_larc",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Run scrape_larc": {
+      "main": [
+        [
+          {
+            "node": "Scrape OK?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scrape OK?": {
+      "main": [
+        [
+          {
+            "node": "Run merge",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Failure notice",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "template": "draft"
+  }
+}

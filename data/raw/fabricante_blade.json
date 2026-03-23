@@ -1,0 +1,3950 @@
+[
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23680.html",
+    "marca": "Butterfly",
+    "modelo": "Innerforce Layer ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37361.html",
+    "marca": "Butterfly",
+    "modelo": "Outerforce ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24270.html",
+    "marca": "Butterfly",
+    "modelo": "Outerforce ZLC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 150.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37341.html",
+    "marca": "Butterfly",
+    "modelo": "Outerforce ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.2,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24250.html",
+    "marca": "Butterfly",
+    "modelo": "Outerforce ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.2,
+      "largura_mm": 150.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37351.html",
+    "marca": "Butterfly",
+    "modelo": "Outerforce CAF",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.3,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 CA-Fiber",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": "CAF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24260.html",
+    "marca": "Butterfly",
+    "modelo": "Outerforce CAF - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.3,
+      "largura_mm": 150.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 CA-Fiber",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": "CAF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37331.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce Super ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ALC [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ALC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24240.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce Super ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ALC [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ALC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37101.html",
+    "marca": "Butterfly",
+    "modelo": "Diode Pro",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 156.0,
+      "altura_mm": 165.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37281.html",
+    "marca": "Butterfly",
+    "modelo": "Mizutani Jun Major",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24230.html",
+    "marca": "Butterfly",
+    "modelo": "Mizutani Jun Major - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37181.html",
+    "marca": "Butterfly",
+    "modelo": "Hadraw 5",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24160.html",
+    "marca": "Butterfly",
+    "modelo": "Hadraw 5 - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37191.html",
+    "marca": "Butterfly",
+    "modelo": "Viscaria Super ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24170.html",
+    "marca": "Butterfly",
+    "modelo": "Viscaria Super ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37111.html",
+    "marca": "Butterfly",
+    "modelo": "Falcima",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": "ALC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24010.html",
+    "marca": "Butterfly",
+    "modelo": "Viscaria - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24100.html",
+    "marca": "Butterfly",
+    "modelo": "Falcima - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": "ALC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37221.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37241.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong Super ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37261.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37251.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong Super ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.6,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Super ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37231.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong CNF",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Cellulose Nanofiber",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "CNF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24190.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong CNF - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Cellulose Nanofiber",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "CNF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24180.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24200.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong Super ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24220.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong ZLC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24210.html",
+    "marca": "Butterfly",
+    "modelo": "Fan Zhendong Super ZLC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.6,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Super ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/35861.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/35831.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply + 2 ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36601.html",
+    "marca": "Butterfly",
+    "modelo": "Mizutani Jun Super ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ZLC",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Super ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36611.html",
+    "marca": "Butterfly",
+    "modelo": "Mizutani Jun ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37021.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce Super ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.2,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ZLC [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Super ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37031.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36991.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37131.html",
+    "marca": "Butterfly",
+    "modelo": "Lin Yun-Ju Super ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.6,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ZL-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Super ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37091.html",
+    "marca": "Butterfly",
+    "modelo": "Ovtcharov Innerforce ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.2,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37121.html",
+    "marca": "Butterfly",
+    "modelo": "Franziska Innerforce ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36681.html",
+    "marca": "Butterfly",
+    "modelo": "Innerforce Layer ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36701.html",
+    "marca": "Butterfly",
+    "modelo": "Innerforce Layer ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36861.html",
+    "marca": "Butterfly",
+    "modelo": "Innerforce Layer ALC.S",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST",
+        "AN"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36841.html",
+    "marca": "Butterfly",
+    "modelo": "Freitas ALC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36831.html",
+    "marca": "Butterfly",
+    "modelo": "Apolonia ZLC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37061.html",
+    "marca": "Butterfly",
+    "modelo": "Revoldia CNF",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Cellulose Nanofiber",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "CNF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30041.html",
+    "marca": "Butterfly",
+    "modelo": "Viscaria",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30811.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll Spirit",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30101.html",
+    "marca": "Butterfly",
+    "modelo": "Primorac Carbon",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 7.0,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "3-ply wood + 2 T5000",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36951.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll CAF",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "3-ply wood + 2 CA-Fiber",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "CAF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36941.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll TJ",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.2,
+      "largura_mm": 146.0,
+      "altura_mm": 154.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "3-ply wood + 2 T5000",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36891.html",
+    "marca": "Butterfly",
+    "modelo": "SK Carbon",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.2,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "3-ply wood + 2 T5000",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30091.html",
+    "marca": "Butterfly",
+    "modelo": "Sardius",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 7.2,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "3-ply wood + 2 T5000",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30651.html",
+    "marca": "Butterfly",
+    "modelo": "Kumpuru",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "3-ply wood + 2 T5000",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36881.html",
+    "marca": "Butterfly",
+    "modelo": "SK7 Classic",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/35811.html",
+    "marca": "Butterfly",
+    "modelo": "Korbel SK7",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.8,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30271.html",
+    "marca": "Butterfly",
+    "modelo": "Petr Korbel",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.9,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37141.html",
+    "marca": "Butterfly",
+    "modelo": "Maze Advance",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/30551.html",
+    "marca": "Butterfly",
+    "modelo": "Primorac",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36931.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll J",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.1,
+      "largura_mm": 144.0,
+      "altura_mm": 152.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37001.html",
+    "marca": "Butterfly",
+    "modelo": "TB5α",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.4,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/37011.html",
+    "marca": "Butterfly",
+    "modelo": "Xstar V",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.6,
+      "largura_mm": 152.0,
+      "altura_mm": 158.0,
+      "cabos_disponiveis": [
+        "FL"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36691.html",
+    "marca": "Butterfly",
+    "modelo": "Innershield Layer ZLF",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.1,
+      "largura_mm": 155.0,
+      "altura_mm": 166.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood + 2 ZL-Fiber [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/36961.html",
+    "marca": "Butterfly",
+    "modelo": "Diode V",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 156.0,
+      "altura_mm": 165.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24040.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce Super ZLC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.2,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Super ZLC [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Super ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24050.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce ZLC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/24030.html",
+    "marca": "Butterfly",
+    "modelo": "Harimoto Tomokazu Innerforce ALC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.0,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23670.html",
+    "marca": "Butterfly",
+    "modelo": "Innerforce Layer ZLC - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 ZL-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "ZLC"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23880.html",
+    "marca": "Butterfly",
+    "modelo": "Innerforce Layer ALC.S - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.5,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5-ply wood + 2 Arylate-Carbon [Innerfiber]",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23920.html",
+    "marca": "Butterfly",
+    "modelo": "SK Carbon - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.2,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "3-ply wood + 2 T5000",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23990.html",
+    "marca": "Butterfly",
+    "modelo": "Timo Boll CAF - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "3-ply wood + 2 CA-Fiber",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "CAF"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23910.html",
+    "marca": "Butterfly",
+    "modelo": "SK7 Classic - CS",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.8,
+      "largura_mm": 150.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/20200.html",
+    "marca": "Butterfly",
+    "modelo": "Shamada",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 7.5,
+      "largura_mm": 150.0,
+      "altura_mm": 160.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5-ply wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23930.html",
+    "marca": "Butterfly",
+    "modelo": "Cypress G-MAX",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 10.0,
+      "largura_mm": 135.0,
+      "altura_mm": 163.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 1,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "1-ply Kiso Hinoki",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23960.html",
+    "marca": "Butterfly",
+    "modelo": "Cypress V-MAX",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 10.0,
+      "largura_mm": 135.0,
+      "altura_mm": 163.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 1,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "1-ply Kiso Hinoki",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/23840.html",
+    "marca": "Butterfly",
+    "modelo": "Garaydia Revolver",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": 6.4,
+      "largura_mm": 141.0,
+      "altura_mm": 161.0,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "3-ply wood + 2 Arylate-Carbon",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Arylate-Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.butterfly-global.com/en/products/detail/06020.html",
+    "marca": "Butterfly",
+    "modelo": "Rozena",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": null,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Rozena",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-long-5",
+    "marca": "DHS",
+    "modelo": "Hurricane Long 5",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.9,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5+2 7 layers(5 wood + 2 aryl-carbon)",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-wang",
+    "marca": "DHS",
+    "modelo": "Hurricane King (Wang Chuqin)",
+    "fisica": {
+      "peso_g": 89.0,
+      "espessura_mm": 5.9,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-power-g7-off",
+    "marca": "DHS",
+    "modelo": "Power G7",
+    "fisica": {
+      "peso_g": 88.0,
+      "espessura_mm": 6.3,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-301",
+    "marca": "DHS",
+    "modelo": "Hurricane 301",
+    "fisica": {
+      "peso_g": 89.0,
+      "espessura_mm": 5.8,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-long-5x",
+    "marca": "DHS",
+    "modelo": "Hurricane Long 5X",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-long-5-golden",
+    "marca": "DHS",
+    "modelo": "Hurricane Long 5 Golden",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.9,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-fang-bo-carbon",
+    "marca": "DHS",
+    "modelo": "Bo Carbon",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.9,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-fang-bo-carbon-b2x",
+    "marca": "DHS",
+    "modelo": "Bo 2X Carbon",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-classic-08x",
+    "marca": "DHS",
+    "modelo": "Classic 08X",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.7,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-301x",
+    "marca": "DHS",
+    "modelo": "Hurricane 301X",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.9,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-power-g5x",
+    "marca": "DHS",
+    "modelo": "Power G5X",
+    "fisica": {
+      "peso_g": 89.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-hao-ii",
+    "marca": "DHS",
+    "modelo": "Hurricane Hao II",
+    "fisica": {
+      "peso_g": 89.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5",
+      "posicao_carbono": null,
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-power-g9-off",
+    "marca": "DHS",
+    "modelo": "Power G9 OFF",
+    "fisica": {
+      "peso_g": 89.0,
+      "espessura_mm": 6.3,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7",
+      "posicao_carbono": null,
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-fang-bo-all-wood",
+    "marca": "DHS",
+    "modelo": "Bo All-Wood",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 6.3,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7",
+      "posicao_carbono": null,
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-power-g8-off",
+    "marca": "DHS",
+    "modelo": "Power G8 OFF",
+    "fisica": {
+      "peso_g": 87.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5",
+      "posicao_carbono": null,
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-hurricane-long-5x-ch-pen",
+    "marca": "DHS",
+    "modelo": "Hurricane Long 5X Ch.Pen",
+    "fisica": {
+      "peso_g": 87.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-fang-bo-carbon-b2x-ch-pen",
+    "marca": "DHS",
+    "modelo": "Bo 2X Carbon Ch.Pen",
+    "fisica": {
+      "peso_g": 88.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-power-g8-off-pen",
+    "marca": "DHS",
+    "modelo": "Power G8 OFF Ch.Pen",
+    "fisica": {
+      "peso_g": 82.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 4035,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Power G8 OFF Ch.Pen DHS Table Tennis Equipment DHS Power G8 OFF Ch.Pen Details Classical 5-ply wooden very well balanced blade. It is recommended for the attacks close to the table. approximate weight (g) : 82 Blade Type : OFF thickness (mm) : 6 Buy at Tabletennis11.com Balls Rubbers Blades Tables Accessories Bats Contact Us OFFICIAL TABLE SUPPLIER OF OLYMPIC GAMES 2008, 2012 OFFICIAL TABLE SUPPLIER OF TT WORLD CHAMPIONSHIP 2010, 2011, 2013, 2015, 2017 OFFICIAL TT BALL OF TT WORLD CHAMPIONSHIP 2008, 2012, 2014 Balls Rubbers Blades Tables Accessories Bats COPYRIGHT © 2009-2026 Table Tennis Products. ALL RIGHTS RESERVED.",
+      "posicao_carbono": null,
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-fang-bo-all-wood-pen",
+    "marca": "DHS",
+    "modelo": "Bo All-Wood Ch.Pen",
+    "fisica": {
+      "peso_g": 87.0,
+      "espessura_mm": 6.3,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "7",
+      "posicao_carbono": null,
+      "camadas_carbono": 2026,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-fang-bo-carbon-pen",
+    "marca": "DHS",
+    "modelo": "Bo Carbon Ch.Pen",
+    "fisica": {
+      "peso_g": 88.0,
+      "espessura_mm": 5.9,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.dhs-tt.com/en/dhs-power-g5x-ch-pen",
+    "marca": "DHS",
+    "modelo": "Power G5X Ch.Pen",
+    "fisica": {
+      "peso_g": 87.0,
+      "espessura_mm": 6.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "5+2",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-COTON-RELEVANT/100270010",
+    "marca": "Donic",
+    "modelo": "COTON RELEVANT",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV",
+        "ANATOMISCH"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Schichten: 5+2 Griffform: anatomisch , gerade , konkav",
+      "posicao_carbono": null,
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ZENTRA-NEXT-CARBON/100236010",
+    "marca": "Donic",
+    "modelo": "ZENTRA NEXT CARBON",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: ALL , OFF - Schichten: 5+2 Griffform: gerade , konkav",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ZHANG-JIKE-ORIGINAL-CARBON/110294020",
+    "marca": "Donic",
+    "modelo": "ZHANG JIKE ORIGINAL CARBON",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF , OFF + Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ZHANG-JIKE-NEW-ERA/110295020",
+    "marca": "Donic",
+    "modelo": "ZHANG JIKE NEW ERA",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: mittel Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WHIPER-OUTER-CARBON/110259010",
+    "marca": "Donic",
+    "modelo": "WHIPER OUTER CARBON",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF , OFF + Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 6,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WHIPER-INNER-CARBON/110258010",
+    "marca": "Donic",
+    "modelo": "WHIPER INNER CARBON",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 6,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-PERSSON-JUBILEE-40/110220010",
+    "marca": "Donic",
+    "modelo": "PERSSON JUBILEE 40",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: mittel Tempo: schnell Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ANDERS-LIND-HEXA-CARBON/110250010",
+    "marca": "Donic",
+    "modelo": "ANDERS LIND HEXA CARBON",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-DOTEC-TRUE-CARBON-INNER/110293060",
+    "marca": "Donic",
+    "modelo": "DOTEC TRUE CARBON INNER",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-J.O.-WALDNER-GOLD-EDITION/110210020",
+    "marca": "Donic",
+    "modelo": "J.O. WALDNER GOLD EDITION",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-XTREME/110219020",
+    "marca": "Donic",
+    "modelo": "XTREME",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WALDNER-OFF-WORLD-CHAMPION-89/110212010",
+    "marca": "Donic",
+    "modelo": "WALDNER OFF WORLD CHAMPION 89",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-PERSSON-OFF-WORLD-CHAMPION-89/110213020",
+    "marca": "Donic",
+    "modelo": "PERSSON OFF+ WORLD CHAMPION 89",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF , OFF + Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-APPELGREN-ALL-WORLD-CHAMPION-89/110211010",
+    "marca": "Donic",
+    "modelo": "APPELGREN ALL+ WORLD CHAMPION 89",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-CLASSIC-POWER-ALLROUND/110202020",
+    "marca": "Donic",
+    "modelo": "CLASSIC POWER ALLROUND",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 6,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-CLASSIC-OFFENSIVE/110203020",
+    "marca": "Donic",
+    "modelo": "CLASSIC OFFENSIVE",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 6,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: mittel Tempo: mittel Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 6+1 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ORIGINAL-TRUE-CARBON-INNER/110291010",
+    "marca": "Donic",
+    "modelo": "ORIGINAL TRUE CARBON INNER",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ORIGINAL-TRUE-CARBON/110265010",
+    "marca": "Donic",
+    "modelo": "ORIGINAL TRUE CARBON",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF , OFF + Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ORIGINAL-NO.-1-SENSO/110279010",
+    "marca": "Donic",
+    "modelo": "ORIGINAL NO. 1 SENSO",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ORIGINAL-NO.-1/110278010",
+    "marca": "Donic",
+    "modelo": "ORIGINAL NO. 1",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-BALSA-CARBO-FLEECE/110242010",
+    "marca": "Donic",
+    "modelo": "BALSA CARBO FLEECE",
+    "fisica": {
+      "peso_g": 80.0,
+      "espessura_mm": 5.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF , OFF + Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-BALSA-CARBO-CERTRAN-FIBRE/110292010",
+    "marca": "Donic",
+    "modelo": "BALSA CARBO CERTRAN FIBRE",
+    "fisica": {
+      "peso_g": 75.0,
+      "espessura_mm": 4.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: OFF , OFF + Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-NEW-IMPULS-7.0/100257010",
+    "marca": "Donic",
+    "modelo": "NEW IMPULS 7.0",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 7.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: mittel Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-NEW-IMPULS-7.5/100258010",
+    "marca": "Donic",
+    "modelo": "NEW IMPULS 7.5",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 7.5,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: OFF - , OFF Elastizität: steif Tempo: schnell Kontrolle: anspruchsvoll Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ZENTRA-FIRST-ALLROUND/100235010",
+    "marca": "Donic",
+    "modelo": "ZENTRA FIRST ALLROUND",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL - , ALL+ Schichten: 5 Griffform: gerade , junior kk , konkav",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-DEFPLAY-INNER-CARBON/110257010",
+    "marca": "Donic",
+    "modelo": "DEFPLAY INNER CARBON",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 0.4,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: DEF + , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 6,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-CLASSIC-ALLROUND/110201020",
+    "marca": "Donic",
+    "modelo": "CLASSIC ALLROUND",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 6,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 6+3 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 6,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-NEW-IMPULS-6.5/100256010",
+    "marca": "Donic",
+    "modelo": "NEW IMPULS 6.5",
+    "fisica": {
+      "peso_g": 80.0,
+      "espessura_mm": 6.5,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Vollholz Schichten: 5 Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WALDNER-DOTEC-AR/100283060",
+    "marca": "Donic",
+    "modelo": "WALDNER DOTEC AR",
+    "fisica": {
+      "peso_g": 80.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-APPELGREN-DOTEC-CONTROL/110222060",
+    "marca": "Donic",
+    "modelo": "APPELGREN DOTEC CONTROL",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: mittel Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WX-DOTEC-CONTROL-PLUS/110223010",
+    "marca": "Donic",
+    "modelo": "WX DOTEC CONTROL PLUS",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ORIGINAL-DOTEC-ALL/110268060",
+    "marca": "Donic",
+    "modelo": "ORIGINAL DOTEC ALL+",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-ORIGINAL-DOTEC-ALL/110267060",
+    "marca": "Donic",
+    "modelo": "ORIGINAL DOTEC ALL",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-RELEVANT/110290010",
+    "marca": "Donic",
+    "modelo": "RELEVANT",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: steif Tempo: mittel Kontrolle: mittel Aufbau: Furniere mit Kunstfaser Schichten: 5+2 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-BURN-ALL/110281010",
+    "marca": "Donic",
+    "modelo": "BURN ALL+",
+    "fisica": {
+      "peso_g": 200.0,
+      "espessura_mm": 3.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: hoch Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-EPOX-POWERALLROUND/110272010",
+    "marca": "Donic",
+    "modelo": "EPOX POWERALLROUND",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 3.2,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: mittel Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-EPOX-CONTROL/110271010",
+    "marca": "Donic",
+    "modelo": "EPOX CONTROL",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 3.2,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WALDNER-OFFENSIV/100220010",
+    "marca": "Donic",
+    "modelo": "WALDNER OFFENSIV",
+    "fisica": {
+      "peso_g": 80.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 6,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL+ , OFF - Elastizität: mittel Tempo: mittel Kontrolle: mittel Aufbau: Vollholz Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WALDNER-SENSO-V1/100227010",
+    "marca": "Donic",
+    "modelo": "WALDNER SENSO V1",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.8,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-WALDNER-SENSO-V2/100228010",
+    "marca": "Donic",
+    "modelo": "WALDNER SENSO V2",
+    "fisica": {
+      "peso_g": 90.0,
+      "espessura_mm": 5.8,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: ALL , ALL+ Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Vollholz Schichten: 5 Gewicht: 80-90g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-DEFPLAY-SENSO/100212010",
+    "marca": "Donic",
+    "modelo": "DEFPLAY SENSO",
+    "fisica": {
+      "peso_g": 80.0,
+      "espessura_mm": 3.0,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "ANATOMISCH",
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: DEF , ALL - Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Vollholz Schichten: 5 Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 4,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.donic.com/DONIC-DEFPLAY-CLASSIC-SENSO/100211010",
+    "marca": "Donic",
+    "modelo": "DEFPLAY CLASSIC SENSO",
+    "fisica": {
+      "peso_g": 70.0,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": [
+        "GERADE",
+        "KONKAV"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Charakteristik: DEF , ALL - Elastizität: elastisch Tempo: kontrolliert Kontrolle: hoch Aufbau: Vollholz Schichten: 7 Gewicht: < 80g",
+      "posicao_carbono": null,
+      "camadas_carbono": 5,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/vyzaryz-trinity-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Vyzaryz Trinity",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The JOOLA Vyzaryz Trinity is a complete game changer! In a JOOLA first, this blade employs the ground-breaking X3 , a state-of-the-art super composite weave. To create the X3, horizontal layers of PBO-C were woven with vertical layers of ARY-C . Imagine the ability to combine power, force, feeling, and accuracy, all in one blade! The outer layer of Limba adds even more touch to every shot. The 5+2 ply JOOLA Vyzaryz Trinity blade will give you the X3 super boost when you need it! JOOLA Premium Line blades uses the highest quality materials with an attention to craftsmanship. With composite materials made in Japan, handles sourced in Italy, and assembly completed in South Korea, what you get when you use one of our JOOLA Premium Line blades will thoroughly impress you!",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/vyzaryz-freeze-hrd-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Vyzaryz Freeze HRD",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": null,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Powerful ARY-c synthetic veneers under a crisp Koto outer veneer provide an outstanding directness and penetrating power. The \"cold-cured\" ARY-C technology manages to combine this explosiveness with control. Extended ball contact time and an impressive sound give you a nice touch and round out this well balanced offensive blade. Be ice cold in your game with the JOOLA VYZARYZ FREEZE HRD! JOOLA Premium Line blades uses the highest quality materials with an attention to craftsmanship. With composite materials made in Japan, handles sourced in Italy, and assembly completed in South Korea, what you get when you use one of our JOOLA Premium Line blades will thoroughly impress you!",
+      "posicao_carbono": "outer",
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/nobilis-pbo-c-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Nobilis PBO-c",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 3,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Play like an elite athlete with the JOOLA Nobilis PBO-c! In this 3+2 ply blade design, the PBO-c , a synethic fiber used in auto-racing and aeronautics for its durability and elasticity, is placed in-between the Kiri core and the thicker 1.2mm Hinoki outer veneers. This construction gives the blade stability, elasticity and a lot of force, enabling very precise play even at high speed. This blade is g reat for close-to-the-table play. With its high-quality quality materials and well-thought-out design, the JOOLA Nobilis PBO-c will take your offensive game to the next level! JOOLA Premium Line blades uses the highest quality materials with an attention to craftsmanship. With composite materials made in Japan, handles sourced in Italy, and assembly completed in South Korea, what you get when you use one of our JOOLA Premium Line blades will thoroughly impress you!",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-proline-iac-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "PROline IAC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": null,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "The PROline IAC is a less common composition which offers sharpness on contact from it’s stiffer Koto wood top layer, while offering a superb balance with its inner layer carbon fiber. With KL-c fiber close to the core, the blade offers more forgiveness for even the most offensive shots, creating a unique feel of a longer dwell time – even with a stiffer top layer. The PROline IAC is a great option for players who need a little added cushioning and control from the classic Koto and Outer Layer carbon compositions.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-proline-oac-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "PROline OAC",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": null,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "The PROline OAC is an incredibly well balance offensive blade choice for those looking for a faster outer carbon blade with great stability gears and safety. Outer KL-c fiber layers have been the go-to for players looking for power and speed in their game, adding stiffness and direct feedback to the blade and shotmaking on the attack. Merged with a softer top layer of Limba wood , the blade overall allows the athlete to play at high speeds, whilst reducing the rate of error, and allowing a higher ball arc trajectory and increased safety margins. Well suited to advanced players, the PROline OAC is sensitive yet precise!",
+      "posicao_carbono": "outer",
+      "camadas_carbono": null,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-proline-one-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "PROline One",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "The successor to the legendary Rossi Emotion Blade. The 7-ply classic inner 3K-c carbon and hinoki outer veneer combination creates a blade which offers incredible feeling. The blade overall has a softer feel, but still offers some sharpness on contact. This blade has a great speed kick with a more sensitive touch, great for players who optimize their game closer to the table and have more creative and higher risk shots – requiring greater safety and high margins of success. The PROline ONE blade has all the properties which have made this one of JOOLA’s best selling combinations over the years, with a fresh new design and improved workmanship.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-proline-aw7-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "PROline AW7",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 14,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "The PROline AW7 is JOOLA’s latest all-wood 7-ply construction. As the game speeds up and players look towards carbon fiber composites, JOOLA has adjusted the 7-ply all wood blade to add a bit more heaviness and stiffness – to add power where it counts. The PROline AW7 has two blackened Kiri inner plies to create a stable core unit and add overall hardness to the blade. Weighing in at 90 grams , the heavier composition helps add acceleration into the ball contact, with a total blade thickness of 6.9mm . Despite it’s added weight and stiffness, the AW7 stays true to it’s allwood composition with high arc topspin game, flexibility and a natural feeling.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-proline-aw5-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "PROline AW5",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "This excellently balanced all-wood blade impresses with its high-quality workmanship and exceptional ball control. The 5-ply veneer structure enables a strong ball feedback and flexibility at all times, which makes it suitable for players of all abilities. The Limba top ply enables a particularly long ball contact time for a particularly forgiving game and a high trajectory on topspin shots. The increased overall thickness of the blade of 6.8mm ensures sufficient stability for powerful attack balls and effective final shots. In general, the blade is suitable for all all-round players who are looking for a blade which has a steadier feeling, maximizing the ability to control incoming speed and spin, and execute great offensive placement with the highest consistency.",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/tezzo-warrior-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Tezzo Warrior",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The JOOLA Tezzo Warrior Table Tennis Blade stands strong and confident. The inner layers of KL-c and outer veneers of Limba work together in this 5+2 ply blade to create a solid, yet reliable, trampoline effect. Expect the JOOLA Tezzo Warrior to bring great feeling and exponential speed to your offensive game.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/tezzo-spartan-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Tezzo Spartan",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The fastest and most powerful blade of the Tezzo series, the JOOLA Tezzo Spartan Table Tennis Blade is a force to be reckoned with. With a 5+2 ply composition consisting of a solid Kiri core and KL-c outer layers, this blade offers crisp and direct contact and is shielded by Limba top layers to maintain optimal touch.",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/tezzo-paladin-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Tezzo Paladin",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The JOOLA Tezzo Paladin Table Tennis Blade leads the way with tempered wisdom. Its unique, soft inner layer 3K-sc allows for high vibrational feel and exceptional blade flex. With a 5+2 ply composition, including Limba top layers, the JOOLA Tezzo Paladin pairs perfectly with firmer rubbers to create a soft yet springy effect for greater ease of play.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-baseline-carbon-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "BASEline CARBON",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 83,
+      "estrutura": [],
+      "tem_carbono": true,
+      "tipo_carbono": "The BASEline Carbon is a light entry-level carbon fiber blade with a fine inner soft carbon layer . The layer composition adds stiffness to the blade but maintains the natural all wood type of feeling which players love. The blade is an ideal introduction to the world of carbon fiber blades with great speed and high safety margins and a high arc over the net in topspin play. The low total weight of 83 grams creates great balance with firmer rubbers by reducing the overall racket weight.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": "Carbon"
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-baseline-off-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "BASEline OFF",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 6,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The BASEline Offensive is a step up in the series to a more offensive allwood composition. While maintaining great feeling and a stable, 6.5mm thick , composition, the BASEline Offensive adds a stiffer and more powerful Koto wood top layer . The Koto wood helps increase the overall hardness of the blade and offers players a more reactive surface for explosive contact and direct power. A lightweight 83 grams , this blade is suitable for attacking focused beginners and developing players who are looking for a touch more offensive capability in their equipment.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-baseline-all-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "BASEline ALL",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The BASEline Allround blade is a classic 5-ply allwood blade with a soft limba top layer . This combination is a trusted composition for players looking for exceptional control and increased contact time. The blade is a lighter 83 grams , with an increased thickness of 6.5mm to improve stability and add power for offensive play. The BASEline Allround is particularly suitable for beginners and young developing players.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/joola-baseline-jr-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "BASEline Jr",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The BASEline Junior is a blade with the same features as our classic BASEline Allround blade – 5-ply allwood structure with a limba wood top layer . A classic combination perfect for beginners and developing young players. The BASEline Junior features a shorter handle and smaller headshape to allow a more comfortable grip for young players, and a lower total weight of just 80 grams .",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/tezzo-guardian-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Tezzo Guardian",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The JOOLA Tezzo Guardian Table Tennis Blade holds its ground in battle. Expect superb consistency, optimal control and excellent feeling from the blade's all-wood composition. The flexible 7-ply composition, consisting of Limba outer veneers and Ayous layers, adds a sting on attack.",
+      "posicao_carbono": "outer",
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/xylo-7-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Xylo 7",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 7,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "All wood, all power! The 7-ply JOOLA Xylo 7 uses Limba as the top layer, which is perfect for direct and powerful topspin play. The inner layers are all comprised of softer Ayous , which provides feeling & feedback on all your shots. The JOOLA Xylo 7 is perfect for the offensive player that prefers the touch of an all wooden blade! JOOLA Professional Line blades utilize innovative technologies, high-quality materials, and first-rate craftsmanship to create blades that will truly propel your game to the next level.",
+      "posicao_carbono": "inner",
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/vyzaryz-hybrid-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Vyzaryz Hybrid",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The JOOLA Vyzaryz Hybrid is the dual-threat blade you’ve been searching for! It's customized to account for the differences in forehand and backhand swings. Super PBO-C is used on the forehand and PBO-C on the backhand. With one, you’ll have a lower throw angle, perfect for driving shots. With the other, you'll achieve a higher arc, perfect for traditional spin. Using Koto as the outer veneer, you’ll have more dynamic shots and direct touch. With this 5+2 ply blade, you'll have the ability to choose what is right for your forehand or backhand. Dominate the game with the JOOLA Vyzaryz Hybrid! JOOLA Premium Line blades uses the highest quality materials with an attention to craftsmanship. With composite materials made in Japan, handles sourced in Italy, and assembly completed in South Korea, what you get when you use one of our JOOLA Premium Line blades will thoroughly impress you!",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/vyzaryz-freeze-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Vyzaryz Freeze",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Quality meets innovation with the 5+2 ply JOOLA Vyzaryz Freeze! Using the highest-grade ARY-C this cutting-edge blade gives a hard and powerful feel, while our innovative low temperature curing technique brings extra feeling and touch to the blade. With a Limba outer-ply, players can rely on the JOOLA Vyzaryz Freeze to provide the ultimate touch for their spin needs. The combination of high-quality ARY-C and cutting-edge adhesion techniques brings together a one-of-a-kind blade that has been never seen before! JOOLA Premium Line blades uses the highest quality materials with an attention to craftsmanship. With composite materials made in Japan, handles sourced in Italy, and assembly completed in South Korea, what you get when you use one of our JOOLA Premium Line blades will thoroughly impress you!",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://joola.com/collections/table-tennis-blades/products/santoru-klc-outer-table-tennis-blade",
+    "marca": "JOOLA",
+    "modelo": "Santoru KL-c Outer",
+    "fisica": {
+      "peso_g": null,
+      "espessura_mm": null,
+      "largura_mm": null,
+      "altura_mm": null,
+      "cabos_disponiveis": []
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "The power you want and the touch you need is what you’ll get with the JOOLA Santoru KL-c Outer! This 5+2 ply blade features soft Limba outer veneers that sit directly on top of KL-c . Paired together with a strong Kiri core, the JOOLA Santoru KL-c Outer provides incomparable levels of speed, control, and accuracy that's well-suited for the modern topspin player. Never miss your shots with the laser-like precision of the JOOLA Santoru KL-c Outer! Suitable for fans of the JOOLA Fever Blade. JOOLA Professional Line blades utilize innovative technologies, high-quality materials, and first-rate craftsmanship to create blades that will truly propel your game to the next level.",
+      "posicao_carbono": "outer",
+      "camadas_carbono": 2,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  },
+  {
+    "source": "fabricante",
+    "source_url": "https://www.nittaku.com/products/rackets/post-39",
+    "marca": "Nittaku",
+    "modelo": "Acoustic",
+    "fisica": {
+      "peso_g": 88.0,
+      "espessura_mm": 5.7,
+      "largura_mm": 150.0,
+      "altura_mm": 157.0,
+      "cabos_disponiveis": [
+        "FL",
+        "ST"
+      ]
+    },
+    "composicao": {
+      "total_camadas": 5,
+      "estrutura": [],
+      "tem_carbono": false,
+      "tipo_carbono": "Wood",
+      "posicao_carbono": null,
+      "camadas_carbono": null,
+      "fibra_especial": null
+    },
+    "scraped_at": "2026-03-22"
+  }
+]

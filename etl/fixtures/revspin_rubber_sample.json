@@ -1,0 +1,17 @@
+[
+  {
+    "source": "revspin",
+    "source_id": "2",
+    "marca": "DHS",
+    "modelo": "Hurricane III",
+    "url": "https://revspin.net/hurricane-3",
+    "velocidade": 8.0,
+    "spin": 9.3,
+    "controle": 7.7,
+    "dureza_esponja": 39.0,
+    "decepcao": 0.4,
+    "avaliacao_geral": 9.0,
+    "preco_medio_usd": 24.0,
+    "scraped_at": "2026-03-22"
+  }
+]

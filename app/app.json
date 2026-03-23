@@ -26,9 +26,18 @@
       },
       "predictiveBackGestureEnabled": false
     },
-    "plugins": ["expo-router"],
+    "plugins": [
+      "expo-router"
+    ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4f058c65-b7cf-4978-9cc6-f0abf1d8a238"
+      }
+    },
+    "owner": "lfsystems"
   }
 }

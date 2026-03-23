@@ -6,8 +6,8 @@
   },
   "hero": {
     "eyebrow": "MVP mobile",
-    "title": "Compatibilidade técnica para setup de tênis de mesa.",
-    "description": "O app cruza perfil do atleta, setup atual e dados objetivos do dataset para recomendar combinações mais coerentes."
+    "title": "Análise técnica do setup de tênis de mesa.",
+    "description": "O app cruza perfil do atleta, setup atual e dados objetivos do dataset para diagnosticar o material em uso."
   },
   "sections": {
     "playingProfile": "Perfil de jogo",
@@ -18,39 +18,136 @@
     "level": "Nível",
     "style": "Estilo",
     "grip": "Empunhadura",
+    "dominantSide": "Lado dominante",
     "frequency": "Frequência",
     "strengths": "Pontos fortes",
     "weaknesses": "Pontos fracos",
-    "blade": "Lâmina",
-    "forehandRubber": "Borracha FH",
-    "backhandRubber": "Borracha BH",
+    "bladeBrand": "Marca da lâmina",
+    "bladeModel": "Modelo da lâmina",
+    "forehandRubberBrand": "Marca da borracha FH",
+    "forehandRubberModel": "Modelo da borracha FH",
+    "forehandRubberThickness": "Espessura FH",
+    "backhandRubberType": "Tipo do BH",
+    "backhandRubberBrand": "Marca da borracha BH",
+    "backhandRubberModel": "Modelo da borracha BH",
+    "backhandRubberThickness": "Espessura BH",
+    "setupDuration": "Tempo de uso do setup",
     "issues": "Problemas percebidos",
     "goal": "Objetivo",
-    "notes": "Observações"
+    "notes": "Observações",
+    "previousMaterials": "Materiais anteriores"
   },
   "actions": {
-    "generate": "Gerar análise técnica"
+    "generate": "Gerar análise técnica",
+    "generating": "Gerando análise..."
+  },
+  "autocomplete": {
+    "typeMinChars": "Digite ao menos 3 letras para filtrar a lista.",
+    "noResults": "Nenhum item do dataset encontrado para este filtro."
   },
   "result": {
     "profileAnalysis": "Análise do perfil",
     "currentSetupAnalysis": "Análise do setup atual",
-    "recommendations": "Top 3 recomendações",
-    "roadmap": "Roadmap"
+    "blade": "Lâmina",
+    "forehandRubber": "Borracha FH",
+    "backhandRubber": "Borracha BH",
+    "competitionApproval": "Aprovado para competição",
+    "confidence": "Confiança da análise",
+    "usedFields": "Campos utilizados",
+    "missingFields": "Campos ausentes",
+    "approved": "Sim",
+    "notApproved": "Não",
+    "larcAlertTitle": "Alerta LARC",
+    "larcIrregular": "Este equipamento não consta na lista LARC ITTF vigente e não é permitido em competições federadas.",
+    "positives": "Pontos positivos",
+    "limitations": "Limitações",
+    "synergy": "Sinergia da combinação",
+    "risks": "Riscos",
+    "scopeTitle": "Escopo do MVP",
+    "scopeDescription": "Nesta fase, o app apenas diagnostica o material atual do atleta. Recomendações de troca ficam para uma etapa posterior.",
+    "emptyTitle": "Nenhuma análise disponível",
+    "emptyDescription": "Preencha o perfil e gere uma análise técnica para ver o diagnóstico aqui.",
+    "emptyAction": "Ir para o perfil",
+    "confidenceLevels": {
+      "alta": "Alta",
+      "media": "Média",
+      "baixa": "Baixa",
+      "insuficiente": "Insuficiente"
+    },
+    "confidenceDescriptions": {
+      "alta": "Análise completa com ratings e contexto físico disponível.",
+      "media": "Leitura baseada principalmente em ratings confiáveis.",
+      "baixa": "Dados limitados disponíveis para este item.",
+      "insuficiente": "Equipamento não encontrado ou sem dados mínimos no dataset."
+    }
   },
   "settings": {
     "languageTitle": "Idioma",
-    "languageDescription": "A troca manual de idioma ficará disponível desde o MVP para preparar expansão internacional.",
+    "languageDescription": "A troca manual de idioma fica pronta desde o MVP para apoiar a expansão internacional.",
     "languageLabel": "Idiomas previstos",
     "profileTitle": "Perfil salvo",
     "profileDescription": "Espaço reservado para salvar setups e preferências do atleta nas próximas iterações."
   },
-  "mock": {
-    "notes": "Setup atual com sensação rígida no toque curto e pouca segurança no BH.",
-    "profileAnalysis": "Perfil ofensivo intermediário com classineta, pedindo equilíbrio entre aceleração de FH, estabilidade de BH e peso final controlado.",
-    "currentSetupPositive": "O setup atual já favorece potência de FH e aceleração inicial.",
-    "currentSetupLimitation": "A combinação está rígida demais para o controle fino do jogo curto.",
-    "currentSetupRisk": "Se o peso continuar alto, o BH moderno tende a perder qualidade ao longo do treino.",
-    "roadmapNow": "Trocar primeiro a borracha de BH por uma opção mais estável e leve.",
-    "roadmapLater": "Reavaliar a lâmina quando o dataset unificado e o backend com Sonnet estiverem ativos."
+  "profile": {
+    "backhandClassicPenhold": "Empunhadura penhold clássico detectada: o BH será tratado como dorso-liso na análise.",
+    "backhandDorsoLisoHint": "Dorso-liso selecionado: a análise do BH será tratada como uso sem borracha."
+  },
+  "options": {
+    "level": {
+      "iniciante": "Iniciante",
+      "intermediario": "Intermediário",
+      "avancado": "Avançado",
+      "federado": "Federado"
+    },
+    "style": {
+      "ofensivo": "Ofensivo",
+      "defensivo": "Defensivo",
+      "allRound": "All-round"
+    },
+    "grip": {
+      "shakehand": "Shakehand",
+      "penholdClassico": "Penhold clássico",
+      "classineta": "Classineta"
+    },
+    "dominantSide": {
+      "destro": "Destro",
+      "canhoto": "Canhoto"
+    },
+    "frequency": {
+      "ocasional": "Ocasional",
+      "x1_2": "1-2x/semana",
+      "x3_4": "3-4x/semana",
+      "diario": "Diário",
+      "federado": "Federado"
+    },
+    "strength": {
+      "topspinFh": "Topspin FH",
+      "recepcao": "Recepção",
+      "bloqueio": "Bloqueio",
+      "jogoCurto": "Jogo curto"
+    },
+    "weakness": {
+      "bhPassivo": "BH passivo",
+      "arcoBaixo": "Arco baixo",
+      "pesoSetup": "Peso do setup",
+      "inconstancia": "Inconstância"
+    },
+    "issue": {
+      "toqueDuro": "Toque duro",
+      "poucoControle": "Pouco controle",
+      "pesoAlto": "Peso alto",
+      "faltaSpin": "Falta spin"
+    },
+    "goal": {
+      "maisVelocidade": "Mais velocidade",
+      "maisSpin": "Mais spin",
+      "maisControle": "Mais controle",
+      "equilibrio": "Equilíbrio",
+      "competicaoFederada": "Competição federada"
+    },
+    "backhandType": {
+      "convencional": "Borracha convencional",
+      "dorsoLiso": "Dorso-liso"
+    }
   }
 }

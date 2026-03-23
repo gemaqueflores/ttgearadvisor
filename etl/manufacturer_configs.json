@@ -1,0 +1,101 @@
+[
+  {
+    "brand": "Butterfly",
+    "category": "blade",
+    "source_url": "https://www.butterfly-global.com/en/products/blade/",
+    "parser": "butterfly_global_blade_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "Butterfly",
+    "category": "rubber",
+    "source_url": "https://www.butterfly-global.com/en/products/rubber/",
+    "parser": "butterfly_global_rubber_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "DHS",
+    "category": "blade",
+    "source_url": "https://www.dhs-tt.com/en/blades",
+    "parser": "dhs_blade_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "DHS",
+    "category": "rubber",
+    "source_url": "https://www.dhs-tt.com/en/rubbers",
+    "parser": "dhs_rubber_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "Donic",
+    "category": "blade",
+    "source_url": "https://www.donic.com/hoelzer/",
+    "parser": "donic_blade_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "Donic",
+    "category": "rubber",
+    "source_url": "https://www.donic.com/belaege/",
+    "parser": "donic_rubber_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "JOOLA",
+    "category": "blade",
+    "source_url": "https://joola.com/collections/table-tennis-blades",
+    "parser": "joola_blade_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "JOOLA",
+    "category": "rubber",
+    "source_url": "https://joola.com/collections/table-tennis-rubbers",
+    "parser": "joola_rubber_listing",
+    "enabled": true,
+    "table_index": 0
+  },
+  {
+    "brand": "TTGearLab",
+    "category": "blade",
+    "source_url": "https://ttgearlab.com/",
+    "parser": "disabled_v1_0",
+    "enabled": false,
+    "table_index": 0,
+    "note": "v1.0 - enriquecimento fisico"
+  },
+  {
+    "brand": "Megaspin",
+    "category": "blade",
+    "source_url": "https://www.megaspin.net/",
+    "parser": "disabled_v1_0",
+    "enabled": false,
+    "table_index": 0,
+    "note": "v1.0 - enriquecimento fisico"
+  },
+  {
+    "brand": "TT Reviews",
+    "category": "blade",
+    "source_url": "https://tt-reviews.com/",
+    "parser": "disabled_v1_0",
+    "enabled": false,
+    "table_index": 0,
+    "note": "v1.0 - enriquecimento fisico"
+  },
+  {
+    "brand": "Nittaku",
+    "category": "blade",
+    "source_url": "https://www.nittaku.com/products/rackets/post-39",
+    "parser": "nittaku_blade_detail",
+    "enabled": true,
+    "table_index": 0
+  }
+]

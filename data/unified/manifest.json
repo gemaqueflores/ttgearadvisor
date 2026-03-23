@@ -1,0 +1,11 @@
+{
+  "sources": {
+    "revspin_blades": 3630,
+    "revspin_rubbers": 2021,
+    "larc": 1690,
+    "manufacturer_blades": 160,
+    "manufacturer_rubbers": 139
+  },
+  "status": "partial",
+  "message": "Merge incremental preparado apenas com conteudo vindo de LARC, Revspin e fabricantes."
+}

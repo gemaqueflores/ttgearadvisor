@@ -7,7 +7,7 @@
   "hero": {
     "eyebrow": "Mobile MVP",
     "title": "Technical setup compatibility for table tennis.",
-    "description": "The app combines player profile, current setup and objective dataset attributes to recommend better-fitting combinations."
+    "description": "The app combines player profile, current setup and objective dataset attributes to diagnose the equipment currently in use."
   },
   "sections": {
     "playingProfile": "Playing profile",
@@ -18,24 +18,68 @@
     "level": "Level",
     "style": "Style",
     "grip": "Grip",
+    "dominantSide": "Dominant side",
     "frequency": "Frequency",
     "strengths": "Strengths",
     "weaknesses": "Weaknesses",
-    "blade": "Blade",
-    "forehandRubber": "FH rubber",
-    "backhandRubber": "BH rubber",
+    "bladeBrand": "Blade brand",
+    "bladeModel": "Blade model",
+    "forehandRubberBrand": "FH rubber brand",
+    "forehandRubberModel": "FH rubber model",
+    "forehandRubberThickness": "FH thickness",
+    "backhandRubberType": "BH type",
+    "backhandRubberBrand": "BH rubber brand",
+    "backhandRubberModel": "BH rubber model",
+    "backhandRubberThickness": "BH thickness",
+    "setupDuration": "Current setup age",
     "issues": "Current issues",
     "goal": "Goal",
-    "notes": "Notes"
+    "notes": "Notes",
+    "previousMaterials": "Previous materials"
   },
   "actions": {
-    "generate": "Generate technical analysis"
+    "generate": "Generate technical analysis",
+    "generating": "Generating analysis..."
+  },
+  "autocomplete": {
+    "typeMinChars": "Type at least 3 letters to filter the list.",
+    "noResults": "No dataset item found for this filter."
   },
   "result": {
     "profileAnalysis": "Profile analysis",
     "currentSetupAnalysis": "Current setup analysis",
-    "recommendations": "Top 3 recommendations",
-    "roadmap": "Roadmap"
+    "blade": "Blade",
+    "forehandRubber": "FH rubber",
+    "backhandRubber": "BH rubber",
+    "competitionApproval": "Competition approved",
+    "confidence": "Analysis confidence",
+    "usedFields": "Fields used",
+    "missingFields": "Missing fields",
+    "approved": "Yes",
+    "notApproved": "No",
+    "larcAlertTitle": "LARC alert",
+    "larcIrregular": "This equipment is not listed in the current ITTF LARC and is not allowed in federated competition.",
+    "positives": "Positives",
+    "limitations": "Limitations",
+    "synergy": "Combination synergy",
+    "risks": "Risks",
+    "scopeTitle": "MVP scope",
+    "scopeDescription": "At this stage, the app only diagnoses the athlete's current equipment. Replacement recommendations will come later.",
+    "emptyTitle": "No analysis yet",
+    "emptyDescription": "Fill the profile form and run the analysis to see the diagnosis here.",
+    "emptyAction": "Go to profile",
+    "confidenceLevels": {
+      "alta": "High",
+      "media": "Medium",
+      "baixa": "Low",
+      "insuficiente": "Insufficient"
+    },
+    "confidenceDescriptions": {
+      "alta": "Complete analysis with ratings and available physical context.",
+      "media": "Reading based mainly on reliable ratings.",
+      "baixa": "Limited data available for this item.",
+      "insuficiente": "Equipment not found or missing minimum dataset coverage."
+    }
   },
   "settings": {
     "languageTitle": "Language",
@@ -44,13 +88,66 @@
     "profileTitle": "Saved profile",
     "profileDescription": "Reserved space for saved setups and athlete preferences in later iterations."
   },
-  "mock": {
-    "notes": "Current setup feels too rigid in the short game and unstable on the modern backhand.",
-    "profileAnalysis": "Intermediate offensive penhold-modern profile that needs balanced FH acceleration, BH stability and controlled overall weight.",
-    "currentSetupPositive": "The current setup already supports forehand power and first attack acceleration.",
-    "currentSetupLimitation": "The combination is too stiff for fine touch in the short game.",
-    "currentSetupRisk": "If the weight stays high, the modern backhand will likely degrade during longer sessions.",
-    "roadmapNow": "Replace the BH rubber first with a lighter and more stable option.",
-    "roadmapLater": "Reassess the blade once the unified dataset and Sonnet backend are active."
+  "profile": {
+    "backhandClassicPenhold": "Classic penhold detected: the backhand will be treated as a bare back side in the analysis.",
+    "backhandDorsoLisoHint": "Bare back side selected: the BH analysis will be treated as no rubber."
+  },
+  "options": {
+    "level": {
+      "iniciante": "Beginner",
+      "intermediario": "Intermediate",
+      "avancado": "Advanced",
+      "federado": "Federated"
+    },
+    "style": {
+      "ofensivo": "Offensive",
+      "defensivo": "Defensive",
+      "allRound": "All-round"
+    },
+    "grip": {
+      "shakehand": "Shakehand",
+      "penholdClassico": "Classic penhold",
+      "classineta": "Modern penhold"
+    },
+    "dominantSide": {
+      "destro": "Right-handed",
+      "canhoto": "Left-handed"
+    },
+    "frequency": {
+      "ocasional": "Occasional",
+      "x1_2": "1-2x/week",
+      "x3_4": "3-4x/week",
+      "diario": "Daily",
+      "federado": "Federated"
+    },
+    "strength": {
+      "topspinFh": "FH topspin",
+      "recepcao": "Receive",
+      "bloqueio": "Blocking",
+      "jogoCurto": "Short game"
+    },
+    "weakness": {
+      "bhPassivo": "Passive BH",
+      "arcoBaixo": "Low arc",
+      "pesoSetup": "Setup weight",
+      "inconstancia": "Inconsistency"
+    },
+    "issue": {
+      "toqueDuro": "Harsh touch",
+      "poucoControle": "Low control",
+      "pesoAlto": "High weight",
+      "faltaSpin": "Missing spin"
+    },
+    "goal": {
+      "maisVelocidade": "More speed",
+      "maisSpin": "More spin",
+      "maisControle": "More control",
+      "equilibrio": "Balance",
+      "competicaoFederada": "Federated competition"
+    },
+    "backhandType": {
+      "convencional": "Conventional rubber",
+      "dorsoLiso": "Bare back side"
+    }
   }
 }

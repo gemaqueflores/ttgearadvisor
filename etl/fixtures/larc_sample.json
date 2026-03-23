@@ -1,0 +1,24 @@
+[
+  {
+    "source": "ittf_larc",
+    "versao": "2026-01",
+    "marca": "Nittaku",
+    "modelo": "Acoustic",
+    "codigo_ittf": "B-001",
+    "tipo": "blade",
+    "aprovado": true,
+    "valido_desde": "2026-01",
+    "valido_ate": null
+  },
+  {
+    "source": "ittf_larc",
+    "versao": "2026-01",
+    "marca": "DHS",
+    "modelo": "Hurricane 3",
+    "codigo_ittf": "R-001",
+    "tipo": "rubber",
+    "aprovado": true,
+    "valido_desde": "2026-01",
+    "valido_ate": null
+  }
+]

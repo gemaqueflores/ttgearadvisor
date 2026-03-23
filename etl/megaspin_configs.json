@@ -1,0 +1,16 @@
+[
+  {
+    "enabled": false,
+    "brand": "multi",
+    "category": "blade",
+    "source_url": "etl/fixtures/megaspin_blade_sample.html",
+    "table_index": 0,
+    "columns": {
+      "brand": ["Brand"],
+      "model": ["Model"],
+      "speed": ["Speed"],
+      "control": ["Control"],
+      "weight_g": ["Weight (g)", "Weight"]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "source": "megaspin",
+    "source_url": "etl/fixtures/megaspin_blade_sample.html",
+    "marca": "Nittaku",
+    "modelo": "Acoustic",
+    "ratings": {
+      "velocidade": 9.1,
+      "controle": 8.7,
+      "peso_g": 89.0
+    },
+    "scraped_at": null
+  },
+  {
+    "source": "megaspin",
+    "source_url": "etl/fixtures/megaspin_blade_sample.html",
+    "marca": "Butterfly",
+    "modelo": "Viscaria",
+    "ratings": {
+      "velocidade": 9.6,
+      "controle": 8.2,
+      "peso_g": 90.0
+    },
+    "scraped_at": null
+  }
+]

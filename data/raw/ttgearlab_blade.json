@@ -1,0 +1,32 @@
+[
+  {
+    "source": "ttgearlab",
+    "source_url": "etl/fixtures/ttgearlab_blade_sample.html",
+    "marca": "Nittaku",
+    "modelo": "Acoustic",
+    "lab": {
+      "Ep": 6.8,
+      "Ec": 7.1,
+      "Vp": 4.5,
+      "Vl": 4.0,
+      "frequencia_hz": 1260.0,
+      "metodo": "Impact + vibration test"
+    },
+    "scraped_at": null
+  },
+  {
+    "source": "ttgearlab",
+    "source_url": "etl/fixtures/ttgearlab_blade_sample.html",
+    "marca": "Butterfly",
+    "modelo": "Viscaria",
+    "lab": {
+      "Ep": 7.6,
+      "Ec": 8.1,
+      "Vp": 5.2,
+      "Vl": 4.8,
+      "frequencia_hz": 1385.0,
+      "metodo": "Impact + vibration test"
+    },
+    "scraped_at": null
+  }
+]

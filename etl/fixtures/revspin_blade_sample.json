@@ -1,0 +1,15 @@
+[
+  {
+    "source": "revspin",
+    "source_id": "1",
+    "marca": "Nittaku",
+    "modelo": "Acoustic",
+    "url": "https://revspin.net/acoustic",
+    "velocidade": 8.2,
+    "controle": 8.4,
+    "rigidez": 6.7,
+    "avaliacao_geral": 9.1,
+    "preco_medio_usd": 139.0,
+    "scraped_at": "2026-03-22"
+  }
+]

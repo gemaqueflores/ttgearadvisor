@@ -1,11 +1,160 @@
 {
-  "dhs": {
-    "hurricane iii": "hurricane-3",
-    "hurricane 3": "hurricane-3",
-    "hurricane-3": "hurricane-3"
-  },
-  "nittaku": {
-    "fastarc g1": "fastarc-g-1",
-    "fastarc g-1": "fastarc-g-1"
-  }
+  "dhs-hurricane-3": [
+    "Hurricane III",
+    "Hurricane 3",
+    "Hurricane-3",
+    "Hurricane 3 (H3)",
+    "NEO Hurricane 3",
+    "Hurricane 3 Neo",
+    "Hurricane-3-Neo",
+    "Hurricane III Neo"
+  ],
+  "dhs-hurricane-long-5": [
+    "Hurricane Long V",
+    "Hurricane Long 5",
+    "H-Long 5"
+  ],
+  "dhs-hurricane-long-5x": [
+    "Hurricane Long 5X Ch.Pen",
+    "Hurricane Long 5x Ch.Pen"
+  ],
+  "dhs-fang-bo-carbon": [
+    "Bo Carbon",
+    "Bo Carbon Ch.Pen",
+    "Fang Bo Carbon"
+  ],
+  "dhs-fang-bo-all-wood": [
+    "Bo All-Wood",
+    "Bo All-Wood Ch.Pen",
+    "Fang Bo All Wood"
+  ],
+  "dhs-fang-bo-b2x": [
+    "Bo 2X Carbon",
+    "Bo 2X Carbon Ch.Pen",
+    "Fang Bo B2X"
+  ],
+  "dhs-power-g-pg5x": [
+    "Power G5X",
+    "Power G5X Ch.Pen",
+    "PG5X"
+  ],
+  "dhs-power-g-7e": [
+    "Power G7",
+    "PG7",
+    "Power-G 7",
+    "Power G7E"
+  ],
+  "dhs-skyline-2": [
+    "Skyline 2 Neo",
+    "NEO Skyline 2",
+    "NEO Skyline 2 TG2",
+    "Skyline 2 TG2"
+  ],
+  "dhs-skyline-3": [
+    "Skyline 3 Neo",
+    "NEO Skyline 3",
+    "NEO Skyline 3 TG3",
+    "Skyline 3 TG3"
+  ],
+  "dhs-hurricane-3-50": [
+    "Hurricane 3-50 37'"
+  ],
+  "dhs-hurricane-8-80": [
+    "Hurricane 8-80 37'"
+  ],
+  "dhs-c8": [
+    "C8"
+  ],
+  "dhs-neo-hurricane-3-provincial-blue-sponge": [
+    "Hurricane 3 Neo Provincial 39'"
+  ],
+  "dhs-hurricane-3-national-blue-sponge": [
+    "Hurricane 3 National 39' blue sponge"
+  ],
+  "dhs-neo-hurricane-3-wang-chuqin-black": [
+    "Hurricane 3 Neo 41.5' Wang Chuqin FH black"
+  ],
+  "dhs-neo-hurricane-3-ma-long-red": [
+    "Hurricane 3 Neo 37' Ma Long Backhand red"
+  ],
+  "nittaku-fastarc-g-1": [
+    "Fastarc G1",
+    "Fastarc G-1"
+  ],
+  "yasaka-rakza-7-soft": [
+    "Rakza 7 Soft",
+    "Rakza-7-Soft"
+  ],
+  "butterfly-timo-boll-alc": [
+    "Timo Boll ALC",
+    "TB ALC",
+    "Timo Boll A.L.C."
+  ],
+  "butterfly-viscaria": [
+    "Viscaria",
+    "Viscaria FL",
+    "Viscaria ST",
+    "Viscaria - CS",
+    "Viscaria CS"
+  ],
+  "butterfly-viscaria-super-alc": [
+    "Viscaria Super ALC - CS",
+    "Viscaria Super ALC CS"
+  ],
+  "butterfly-falcima": [
+    "Falcima - CS",
+    "Falcima CS"
+  ],
+  "butterfly-hadraw-5": [
+    "Hadraw 5 - CS",
+    "Hadraw 5 CS"
+  ],
+  "butterfly-outerforce-zlc": [
+    "Outerforce ZLC - CS",
+    "Outerforce ZLC CS"
+  ],
+  "butterfly-outerforce-alc": [
+    "Outerforce ALC - CS",
+    "Outerforce ALC CS"
+  ],
+  "butterfly-outerforce-caf": [
+    "Outerforce CAF - CS",
+    "Outerforce CAF CS"
+  ],
+  "butterfly-fan-zhendong-alc": [
+    "Fan Zhendong ALC - CS",
+    "Fan Zhendong ALC CS"
+  ],
+  "butterfly-fan-zhendong-cnf": [
+    "Fan Zhendong CNF - CS",
+    "Fan Zhendong CNF CS"
+  ],
+  "butterfly-fan-zhendong-super-alc": [
+    "Fan Zhendong Super ALC - CS",
+    "Fan Zhendong Super ALC CS"
+  ],
+  "butterfly-fan-zhendong-zlc": [
+    "Fan Zhendong ZLC - CS",
+    "Fan Zhendong ZLC CS"
+  ],
+  "butterfly-fan-zhendong-super-zlc": [
+    "Fan Zhendong Super ZLC - CS",
+    "Fan Zhendong Super ZLC CS"
+  ],
+  "butterfly-innerforce-layer-alc": [
+    "Innerforce Layer ALC",
+    "Innerforce Layer ALC - CS"
+  ],
+  "butterfly-innerforce-layer-alc-s": [
+    "Innerforce Layer ALC.S",
+    "Innerforce Layer ALC . S Cabo CS"
+  ],
+  "butterfly-feint-long-3": [
+    "Feint Long III",
+    "Feint Long 3"
+  ],
+  "butterfly-super-anti-anti-spin": [
+    "Super Anti",
+    "Super Anti (Anti-spin)"
+  ]
 }

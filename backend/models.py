@@ -1,48 +1,52 @@
-from typing import Literal
+from enum import Enum
 
-from pydantic import BaseModel, Field
-
-
-class SetupSide(BaseModel):
-    marca: str | None = None
-    modelo: str | None = None
-    espessura: str | None = None
+from pydantic import BaseModel
 
 
-class BackhandRecommendation(BaseModel):
-    tipo: Literal["convencional", "dorso-liso"]
-    marca: str | None = None
-    modelo: str | None = None
-    espessura: str | None = None
-    observacao: str | None = None
+class AnalysisConfidence(str, Enum):
+    ALTA = "alta"
+    MEDIA = "media"
+    BAIXA = "baixa"
+    INSUFICIENTE = "insuficiente"
 
 
-class RankedRecommendation(BaseModel):
-    rank: int = Field(ge=1, le=3)
-    lamina: SetupSide
-    borracha_fh: SetupSide
-    borracha_bh: BackhandRecommendation
-    justificativa_lamina: str
-    justificativa_fh: str
-    justificativa_bh: str | None = None
-    justificativa_combinacao: str
-    faixa_preco_total_usd: str
+class ProfileAnalysis(BaseModel):
+    resumo: str
+    compatibilidade_estilo_nivel: str
+    pontos_atencao: list[str]
 
 
-class SetupAnalysis(BaseModel):
+class ItemAnalysis(BaseModel):
+    confianca: AnalysisConfidence
+    campos_utilizados: list[str]
+    campos_ausentes: list[str]
+    avaliacao: str
     pontos_positivos: list[str]
     limitacoes: list[str]
+
+
+class BladeAnalysis(ItemAnalysis):
+    pass
+
+
+class RubberAnalysis(ItemAnalysis):
+    aprovado_competicao: bool
+    alerta_larc: str | None = None
+
+
+class CurrentSetupAnalysis(BaseModel):
+    lamina: BladeAnalysis
+    borracha_fh: RubberAnalysis
+    borracha_bh: RubberAnalysis
+    sinergia_combinacao: str
     riscos: list[str]
 
 
-class Roadmap(BaseModel):
-    trocar_agora: list[str]
-    trocar_depois: list[str]
-    justificativa: str
-
-
 class AnalyzeResponse(BaseModel):
-    analise_perfil: str
-    analise_setup_atual: SetupAnalysis
-    recomendacoes: list[RankedRecommendation]
-    roadmap: Roadmap
+    analise_perfil: ProfileAnalysis
+    analise_setup_atual: CurrentSetupAnalysis
+
+
+class ErrorResponse(BaseModel):
+    error: str
+    detail: str
